@@ -1,6 +1,6 @@
 # Camera
 
-This camera consist of a custom PCB and buttons as well as a 2.4 inch tft display with sd card slot, that can capture picture.
+This camera consist of a custom PCB and buttons as well as a 2.4 inch tft display with sd card slot, that can capture picture. Through this project, I learnt about high speed signals, parallel signals and heat management.
 
 <img width="274" height="389" alt="Screenshot 2026-04-14 at 4 07 00 PM" src="https://github.com/user-attachments/assets/f05de6a7-5195-43b5-a490-7520836e129f" />
 
@@ -32,11 +32,15 @@ Camera - OV5640
 ### PCB
 <img width="1088" height="1002" alt="image" src="https://github.com/user-attachments/assets/cdf5980a-804a-4166-94f4-8f27efdb36bb" />
 
+Access files in [PCB folder](https://github.com/LizOnAir/Camera/tree/main/PCB).
+
 ## Firmware
 I use Arduino IDE to program this camera
 - dual state
     - capture image
     - review image
+
+Access files in [Firmware folder](https://github.com/LizOnAir/Camera/tree/main/Firmware).
 
 ## BOM:
 Here should be [everything](https://docs.google.com/spreadsheets/d/14nMMweMc_XzQDbo61nnmqZUTtTscH9UbB8BGQstIzH4/edit?usp=sharing) you need to make this:
