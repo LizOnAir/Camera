@@ -1,6 +1,6 @@
 # Camera
 
-This camera consist of a custom PCB and buttons as well as a 2.4 inch tft display with sd card slot, that can capture picture. Through this project, I learnt about high speed signals, parallel signals and heat management.
+This camera consist of a custom PCB and buttons as well as a 2.4 inch tft display with sd card slot, that can capture picture. I made this project to improve my knowledge about PCB design and also I personally really wanna make a retro camera with noisy resolution. Through this project, I learnt about high speed signals, parallel signals and heat management.
 
 <img width="274" height="389" alt="Screenshot 2026-04-14 at 4 07 00 PM" src="https://github.com/user-attachments/assets/f05de6a7-5195-43b5-a490-7520836e129f" />
 
