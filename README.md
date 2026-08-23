@@ -18,6 +18,16 @@ This camera consist of a custom PCB and buttons as well as a 2.4 inch tft displa
 Made in Fusion360.Liz
 Access files in [CAD folder](https://github.com/LizOnAir/Camera/tree/main/CAD).
 
+## Assembly
+Steps:
+1.  Insert 4 heatset onto the 4 mounting holes in the bottom case.
+2.  Insert the PCB into the bottom case.
+3.  Using hot glue, stick the buttons onto the tactile switches.
+4.  Align the holes of PCB onto the holes of the bottom case.
+5.  Cover the top case over the bottom case.
+6.  Screw them tight together.
+7.  Charge the battery and use!!
+
 ## PCB
 Here's my PCB! It was made in KiCad. 
 ### Schematic
